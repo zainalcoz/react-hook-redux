@@ -1,0 +1,24 @@
+{
+  "kontaks": [
+    {
+      "id": 1,
+      "nama": "Asyrof Nidzomuddin",
+      "hp": "087852218153"
+    },
+    {
+      "id": 2,
+      "nama": "Virda Kenoza",
+      "hp": "087852218155"
+    },
+    {
+      "nama": "Nidzomuddin",
+      "hp": "087852218157",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nama": "Zainal Abidin",
+      "hp": "087852218159"
+    }
+  ]
+}
